@@ -11,4 +11,4 @@ Hey, I’m **Zee**. I am a programmer, and I have been in the computer science i
 - **Twitter**: [@zealeio](https://www.twitter.com/zealeio)
 - **Website**: [Discover now...](https://www.3xv.xyz)
 - **Email**: [Email now...](mailto:panos@3xv.xyz)
-- or here in **Github**.
+or here in **Github**.
