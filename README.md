@@ -9,7 +9,7 @@ Hey, I’m **Zee**. I am a programmer, and I have been in the computer science i
 
 - **Discord**: zealeio#0000
 - **Twitter**: [@zealeio](https://www.twitter.com/zealeio)
-- **Website**: [Discover now...](https://www.3xv.xyz)
-- **Email**: [Email now...](mailto:panos@3xv.xyz)
+- **Website**: [Discover now... (www.3xv.xyz)](https://www.3xv.xyz)
+- **Email**: [Email now... (panos@3xv.xyz)](panos@3xv.xyz)
 
 or here in **Github**.
