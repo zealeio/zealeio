@@ -10,6 +10,6 @@ Hey, I’m **Zee**. I am a programmer, and I have been in the computer science i
 - **Discord**: zealeio#0000
 - **Twitter**: [@zealeio](https://www.twitter.com/zealeio)
 - **Website**: [Discover Now... [3xv.xyz]](https://www.3xv.xyz)
-- **Email**: [Email Now... [panos@3xv.xyz]](panos@3xv.xyz)
+- **Email**: [Email Now... [panos@3xv.xyz]](mailto:panos@3xv.xyz)
 
 or here in **Github**.
